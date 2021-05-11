@@ -1,0 +1,12 @@
+C:\Users\busra\OneDrive\Masaüstü\c# ile 25 derste 25 proje\NOT_KAYIT-SISTEMI\NOT_KAYIT-SISTEMI\bin\Debug\NOT_KAYIT-SISTEMI.exe.config
+C:\Users\busra\OneDrive\Masaüstü\c# ile 25 derste 25 proje\NOT_KAYIT-SISTEMI\NOT_KAYIT-SISTEMI\bin\Debug\NOT_KAYIT-SISTEMI.exe
+C:\Users\busra\OneDrive\Masaüstü\c# ile 25 derste 25 proje\NOT_KAYIT-SISTEMI\NOT_KAYIT-SISTEMI\bin\Debug\NOT_KAYIT-SISTEMI.pdb
+C:\Users\busra\OneDrive\Masaüstü\c# ile 25 derste 25 proje\NOT_KAYIT-SISTEMI\NOT_KAYIT-SISTEMI\obj\Debug\NOT_KAYIT-SISTEMI.csprojAssemblyReference.cache
+C:\Users\busra\OneDrive\Masaüstü\c# ile 25 derste 25 proje\NOT_KAYIT-SISTEMI\NOT_KAYIT-SISTEMI\obj\Debug\NOT_KAYIT_SISTEMI.FrmGiriş.resources
+C:\Users\busra\OneDrive\Masaüstü\c# ile 25 derste 25 proje\NOT_KAYIT-SISTEMI\NOT_KAYIT-SISTEMI\obj\Debug\NOT_KAYIT_SISTEMI.FrmOgrenciDetay.resources
+C:\Users\busra\OneDrive\Masaüstü\c# ile 25 derste 25 proje\NOT_KAYIT-SISTEMI\NOT_KAYIT-SISTEMI\obj\Debug\NOT_KAYIT_SISTEMI.FrmÖğretmenDetay.resources
+C:\Users\busra\OneDrive\Masaüstü\c# ile 25 derste 25 proje\NOT_KAYIT-SISTEMI\NOT_KAYIT-SISTEMI\obj\Debug\NOT_KAYIT_SISTEMI.Properties.Resources.resources
+C:\Users\busra\OneDrive\Masaüstü\c# ile 25 derste 25 proje\NOT_KAYIT-SISTEMI\NOT_KAYIT-SISTEMI\obj\Debug\NOT_KAYIT-SISTEMI.csproj.GenerateResource.cache
+C:\Users\busra\OneDrive\Masaüstü\c# ile 25 derste 25 proje\NOT_KAYIT-SISTEMI\NOT_KAYIT-SISTEMI\obj\Debug\NOT_KAYIT-SISTEMI.csproj.CoreCompileInputs.cache
+C:\Users\busra\OneDrive\Masaüstü\c# ile 25 derste 25 proje\NOT_KAYIT-SISTEMI\NOT_KAYIT-SISTEMI\obj\Debug\NOT_KAYIT-SISTEMI.exe
+C:\Users\busra\OneDrive\Masaüstü\c# ile 25 derste 25 proje\NOT_KAYIT-SISTEMI\NOT_KAYIT-SISTEMI\obj\Debug\NOT_KAYIT-SISTEMI.pdb
