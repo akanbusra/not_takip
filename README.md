@@ -1,2 +1,2 @@
 # not_takip
- Öğretmenlerin,öğrencilerinin notlarını takip edebildiği bir proje
+ Öğretmenlerin,öğrencilerinin notlarını görebildiği bir proje
